@@ -6,5 +6,5 @@ class Dish
         @category = category
     end
 
-
+    
 end
